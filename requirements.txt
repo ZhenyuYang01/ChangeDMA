@@ -1,0 +1,7 @@
+albumentations==2.0.8
+einops==0.8.2
+einx==0.4.3
+tensordict==0.13.0
+timm==1.0.28
+warmup_scheduler==0.3
+xlsxwriter==3.2.9
